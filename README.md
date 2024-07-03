@@ -45,15 +45,15 @@ The oil market is highly volatile due to various geopolitical and economic facto
 - Identify the processes that generate the data and how these are modeled by the chosen time series models.
 - Describe the expected outputs and limitations of the analysis and how predictions are made.
 
-### Task 1: Analyze Brent Oil Prices
+### Analyze Brent Oil Prices
 - Build on the foundational understanding of time series analysis.
 - Apply this knowledge to analyze historical Brent oil prices data.
 
-### Task 2: Utilize Additional Statistical and Econometric Models
+### Utilize Additional Statistical and Econometric Models
 - Explore advanced time series models like VAR, Markov-Switching ARIMA, and LSTM networks.
 - Analyze potential factors influencing oil prices, including economic indicators, technological changes, and political/regulatory factors.
 
-### Task 3: Adapting the Model to a New Scenario
+### Adapting the Model to a New Scenario
 - Apply the analysis framework to different scenarios or related datasets.
 - Extend the model to incorporate new variables or data sources.
 - Validate the model’s performance in predicting future price movements and other outcomes.
